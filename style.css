@@ -1,0 +1,148 @@
+header {
+    min-height: 150px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+        header h1{
+        font-size:3em;
+        padding-bottom: 10px;
+        text-shadow:2px 2px 4px rgba(0,0,0,0.5);}
+        header p {
+        max-width: 500px;
+        margin: auto;
+        font-size:1.2em;
+        padding:0 10px;
+        text-shadow:1px 1px 3px rgba(0,0,0,0.4);}
+    nav {
+        margin-top: 20px;
+        padding: 10px;
+        box-shadow: 0px 7px 10px rgba(0,0,0,0.2);}
+    nav ul {
+        list-style: none;
+        padding: 0;}
+    nav ul li a {
+        display: inline-block;
+        margin: 0 15px;}
+    nav ul li a {
+        color:white;
+        text-decoration:none;
+        font-weight:bold;
+        padding: 10px;
+        border-radius: 5px;
+        transition: 0.55;}
+    nav ul li a :hover{
+        background-color: #666;
+        color: #fff;
+    }
+.Btn-imagem1{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    padding: 0.3em;
+    background-image: url('RedDead.jpg');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.Btn-imagem1:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+.Btn-imagem2{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    padding: 0.3em;
+    background-image: url('Bullyicone.jpg');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.Btn-imagem2:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+.Btn-imagem3{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    padding: 0.3em;
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.Btn-imagem3:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+.Btn-imagem4{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    padding: 0.3em;
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.Btn-imagem4:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+.Btn-imagem5{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    padding: 0.3em;
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.Btn-imagem5:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
